@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+
+#to hide github badge
+github:
+  is_project_page: false
