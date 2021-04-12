@@ -15,6 +15,8 @@
 <body>
   <h2>HOLDING PAGE</h2>
 
+  **Hello** Test post
+
 
 
   <script src="js/scripts.js"></script>
