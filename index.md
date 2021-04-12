@@ -15,7 +15,6 @@
 <body>
   <h2>HOLDING PAGE</h2>
 
-  **Hello** Test post
 
 
 
