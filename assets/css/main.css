@@ -1,4 +1,7 @@
 body {
   background-color: lightblue;
+  }
+
+nav .container-fluid {
   width: 90%;
 }
