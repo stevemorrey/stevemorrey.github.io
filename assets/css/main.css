@@ -1,7 +1,5 @@
 body {
   background-color: lightblue;
+  width: 90%;
+  margin: auto;
   }
-
-nav .container-fluid {
-  width: 500px;
-}
